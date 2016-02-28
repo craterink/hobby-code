@@ -1,0 +1,9 @@
+C:\Users\Cooper\Documents\Programming\Project Euler\Euler\ClassLibrary1\obj\Debug\EulerLib.csprojResolveAssemblyReference.cache
+C:\Users\Cooper\Documents\Programming\Project Euler\Euler\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Cooper\Documents\Programming\Project Euler\Euler\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Cooper\Documents\Programming\Project Euler\Euler\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Cooper\Documents\Programming\Project Euler\Euler\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Cooper\Documents\Hobby Code\ProjectProjectEuler\C#\ClassLibrary1\bin\Debug\EulerLib.dll
+C:\Users\Cooper\Documents\Hobby Code\ProjectProjectEuler\C#\ClassLibrary1\bin\Debug\EulerLib.pdb
+C:\Users\Cooper\Documents\Hobby Code\ProjectProjectEuler\C#\ClassLibrary1\obj\Debug\EulerLib.dll
+C:\Users\Cooper\Documents\Hobby Code\ProjectProjectEuler\C#\ClassLibrary1\obj\Debug\EulerLib.pdb
